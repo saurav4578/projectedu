@@ -1,0 +1,10 @@
+{
+  "name": "rural-classroom-platform",
+  "version": "1.0.0",
+  "description": "AI-Enhanced Remote Classroom Platform for Rural Colleges",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "start-backend": "cd backend && npm run dev",
+    "start-frontend": "cd frontend && npm start"
+  }
+}
